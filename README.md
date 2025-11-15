@@ -7,8 +7,7 @@
 **Flutter Developer | Full-Stack Mobile Developer | Backend (PHP / Node.js)**  
 Building performant apps, clean architectures, and scalable backends.
 
-📧 **Email:** [mohammadapdelsalam@gmail.com](mailto:mohammadapdelsalam@gmail.com)
----
+[📧 Email Me](mailto:mohammadapdelsalam@gmail.com)---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-apdelsalam-5ba542304)
