@@ -5,7 +5,7 @@
 </div>
 
 **Flutter Developer | Full-Stack Mobile Developer | Backend (PHP / Node.js)**  
-Building performant apps, clean architectures, and scalable backends. mo
+Building performant apps, clean architectures, and scalable backends.
 
 📧 Email: [mohammadapdelsalam@gmail.com](mailto:mohammadapdelsalam@gmail.com)
 
